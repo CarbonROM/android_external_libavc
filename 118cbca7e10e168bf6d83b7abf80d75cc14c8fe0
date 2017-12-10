@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 58AD3CDACC488923 1512940149 -0500\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_external_libavc\nnonce 1512940149-42B7090DA4F37FEB077BDD75C6809E15D7C7C592\n\n0000000000000000000000000000000000000000 118cbca7e10e168bf6d83b7abf80d75cc14c8fe0 refs/for/cr-5.1/dec_patches\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEYQVPO71c7y9uUbTUWK082sxIiSMFAlotonUACgkQWK082sxI\niSNeawgAixkUKxZWzhm4H9zHDyA8Kb/G6XrI3VtWpvEdDpaaT1le11H1s2dwvToi\nnWEprj7BeYjBTOczNeasBgtrwQoWab8UGoW7j64ob4wBDBPI1I3dQnJoLmHTa9eR\nv7okmj5kyOo40jgTXNg8XlXWEGXOmx8DNdr5kx6y7fnJl3hhTHfeVa0tJSqD/TVH\naCc6zE9rVS3PQ2ecdxii5QzaOYbTT4dSLhqcZ0tEZSqvNU5c0YPRVwHRQHWFPuZp\nr0rPzJ4EqHwChzyfxbNu+KaAcJvogybEGmEolMBxXwAKn7oEyL/UDXJShbAz6w5L\nxr90Pp7chIduncxLPdTnlIUXOdtHVQ\u003d\u003d\n\u003dXywE\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
